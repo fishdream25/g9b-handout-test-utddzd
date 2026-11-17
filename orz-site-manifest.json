@@ -1,0 +1,64 @@
+{
+  "assets": [
+    {
+      "path": "CITATION.cff",
+      "sha256": "e7a71ea10ccf0dc0fb6d0e359aa0df053dadc593c44d43383e5b46af08a34d9d"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94"
+    },
+    {
+      "path": "index.html",
+      "sha256": "537875fe2678398a50fd76685c108c5d57e0238e2376c77518b2aed8a14c6141"
+    }
+  ],
+  "baseUrl": "https://fishdream25.github.io/g9b-handout-test-utddzd/",
+  "carriers": {
+    "md": {
+      "version": "1.2.0"
+    }
+  },
+  "config": {
+    "sha256": "47f75f355f79fa1ed59be350623d65d0e55e8155b6ec67dcddd26c3d67ca14de"
+  },
+  "documents": [
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "6fed682028af3fda037087a82168b47e28f5033c53448ac28c4375beb7253771",
+      "kind": "md",
+      "output": "index.md.html",
+      "outputSha256": "679af47043468d0b38cb2a0f6fcf72f445ff3764d4cd19004f51e3f769787837",
+      "path": "index.md",
+      "sha256": "2520bcbfa7b32e7a14deeecf2dc243252720b50b4a116990d072adaf82389a31",
+      "title": "[G9b] Handout test"
+    },
+    {
+      "delivery": "cdn",
+      "includes": [],
+      "key": "20bd67075744b1947bcdcef43ce58c6e0e9ec88a13f96aff9ba364f624427719",
+      "kind": "md",
+      "output": "study-guide/atoms.md.html",
+      "outputSha256": "6786a67857b64ff8f4476d25cbc4bfff6d1432e6132eadd3f6b5ca5f5e313cf7",
+      "path": "study-guide/atoms.md",
+      "sha256": "21ff081f6be5f3656b26ca87eb4eed1467fd1781dce2257d197d398e2027b9ac",
+      "title": "Atoms",
+      "uid": "doc-e436reesggl0"
+    }
+  ],
+  "format": 1,
+  "generated": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "059228ee1afe7375c4f4338d9b709eb4c79276a446cba63011aab1d0b05ca775"
+    }
+  ],
+  "generator": "orz-site 0.1.0",
+  "naming": "family",
+  "skipped": []
+}
